@@ -1,5 +1,7 @@
-
 # Kidney CT Dataset Classification with VGG16
+
+![Front page](https://github.com/nahidkawsar/Performance-Visualization-of-VGG16-based-Model-for-CT-Kidney-Dataset/assets/149723828/7d57fa8f-8fce-4679-9cbe-934dd61053d1)
+
 
 ## Introduction
 This project aims to classify kidney CT images into four categories: Normal, Cyst, Tumor, and Stone. We'll employ a pre-trained VGG16 model for this task.
