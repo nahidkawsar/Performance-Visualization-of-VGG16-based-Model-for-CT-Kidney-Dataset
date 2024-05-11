@@ -48,7 +48,7 @@ The model achieved decent accuracy in classifying kidney CT images into Normal, 
 ## GitHub Repository
 You can find the GitHub repository containing the code and relevant files [here](https://github.com/nahidkawsar/Performance-Visualization-of-VGG16-based-Model-for-CT-Kidney-Dataset/blob/main/Performance_Visualization_of_VGG16_based_Model_for_CT_Kidney_Dataset.ipynb.)
 
-## Find me in linked:
+## Find me in linkedin:
 [H.M Nahid Kawsar](linkedin.com/in/h-m-nahid-kawsar-232a86266)
 
 
